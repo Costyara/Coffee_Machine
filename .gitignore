@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Topics/Constructors/Init usage/out/
+/Topics/Constructors/Init usage/out/production/classes/
+/Topics/Enum/Rainbow colors/out/
+/Topics/Enum/Rainbow colors/out/production/classes/
+/Topics/Named arguments/Car price/out/
+/Topics/Named arguments/Car price/out/production/classes/
+/Topics/Properties accessors/Weather comparison/out/
+/Topics/Properties accessors/Weather comparison/out/production/classes/
